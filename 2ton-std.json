@@ -1,6 +1,6 @@
 {
   "name": "Toncoin",
-  "symbol": "$ TON",
+  "symbol": "$TON",
   "description":"Toncoin",
   "decimals": 9,
   "image": ""
