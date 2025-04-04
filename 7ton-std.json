@@ -1,0 +1,7 @@
+{
+  "name": "Τoncoin",
+  "symbol": "ΤΟΝ",
+  "description":"Τoncoin",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/mingircioglu/minterjson/refs/heads/main/ton.svg"
+}
