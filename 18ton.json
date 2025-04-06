@@ -1,6 +1,6 @@
 {
   "name": "Toncoin",
-  "symbol": ".00 TON",
+  "symbol": ".39TON",
     "description":"Toncoin",
   "decimals": 9,
   "image": "https://raw.githubusercontent.com/mingircioglu/minterjson/refs/heads/main/ton.svg"
