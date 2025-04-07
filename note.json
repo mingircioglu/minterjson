@@ -1,0 +1,7 @@
+{
+  "name": "Notcoin",
+  "symbol": ".45 NOT",
+  "description":"Notcoin",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/mingircioglu/minterjson/refs/heads/main/notlogo.svg"
+}
